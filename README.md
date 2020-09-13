@@ -1,6 +1,6 @@
 # Sprint Challenge - JavaScript Fundamentals
 
-**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
+** Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in project. This Sprint explored JavaScript Fundamentals. During this Sprint, you studied array methods, this keyword, prototypes, and class syntax. In your challenge this week, you will demonstrate proficiency by completing a survey of JavaScript problems.
 
