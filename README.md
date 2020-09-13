@@ -27,13 +27,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
+    forEach is a built-in method that makes a set "for loop" for us, it goes in and returns all of the array items for us. map, I think it's just relocating but not really sure about it.
+    
 2. Explain the difference between a callback and a higher order function.
+
+    higher order function takes the argument as parameter. So the argument is called, "callback".
 
 3. What is closure?
 
+    It is a function inside of another function, so passing arguments from outer function to inner function is closure.
+
 4. Describe the four rules of the 'this' keyword.
 
+    when you are inside of an object, when you call .this, then you won't need to type the whole address of the object. JS will understand you mean the object that you are in.
+
 5. Why do we need super() in an extended class?
+
+    I actually didn't study classes, my fault.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
