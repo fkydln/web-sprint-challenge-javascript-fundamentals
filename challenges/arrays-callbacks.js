@@ -54,7 +54,24 @@ The zoos need to know their total animal population across the United States. Fi
 
 */
 let populationTotal = 0;
+
+const onlyPopulation = zooAnimals.map(zooPop =>{
+  return zooPop.population;
+})
+console.log(onlyPopulation); //This works! We obtained the array of Population numbers.
+
+onlyPopulation.reduce(function (totalNum, nextNum){
+  console.log('Total population so far:' + totalNum);
+  console.log('Next population to add:' +  nextNum);
+
+  totalNum += nextNum
+
+  return totalNum
+}, 0)
+
+
 console.log(populationTotal);
+
 
 
 // ==== Callbacks ====  
